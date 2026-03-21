@@ -5,7 +5,7 @@ i32kx
 a00 3903
 nukellcc
 GoldFractureALT
-pvp ign 37
+pvp ign
 skinBy PIxie8775
 f9 ZZZZZZZZZZZZ
 king
